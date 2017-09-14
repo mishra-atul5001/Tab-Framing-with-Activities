@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101159548495",
+    "firebase_url": "https://tabbingfragment.firebaseio.com",
+    "project_id": "tabbingfragment",
+    "storage_bucket": "tabbingfragment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101159548495:android:a70d94c2cc32311d",
+        "android_client_info": {
+          "package_name": "com.example.mishr.tabbingfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101159548495-3bcd7u6r70vtu897o2ooc27uinpi2b89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL07ooa3X6KVWp9-Omx52aUcS4xaFxzVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

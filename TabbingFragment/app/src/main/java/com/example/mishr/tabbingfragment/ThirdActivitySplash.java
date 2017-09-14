@@ -1,16 +1,13 @@
 package com.example.mishr.tabbingfragment;
 
-import android.app.Activity;
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 
-public class SecondActivity extends AppCompatActivity {
+public class ThirdActivitySplash extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
-
-
+        setContentView(R.layout.activity_third_splash);
     }
 }
